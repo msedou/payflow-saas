@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using EmployeeService.Application.DTOs;
 using EmployeeService.Infrastructure.Persistence;
-using EmployeeService.Domain.Entities;
 
 namespace EmployeeService.API.Controllers;
 
