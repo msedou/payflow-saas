@@ -32,3 +32,4 @@ main        → production
 develop     → intégration
 feature/*   → développement
 hotfix/*    → correction urgente
+release/*   → release
