@@ -17,4 +17,10 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Application/interface/" />
+    <Folder Include="Application/service/" />
+    <Folder Include="Domain/Enum/" />
+  </ItemGroup>
+
 </Project>
