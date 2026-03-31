@@ -1,10 +1,12 @@
 using System.Runtime.InteropServices;
+using EmployeeService.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.services.AddControllers();
-builder.services.AddDBContext<EmployeeDbContext>(o =>
-o.UseNpgsql(builder.Configuration["ConnectionStrings:DefaultConnection"]));
+builder.Services.AddControllers();
+builder.Services.AddDbContext<EmployeeDbContext>(
+        options => options.UseNpgsql(builder.Configuration["ConnectionStrings:DefaultConnection"]));
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
