@@ -33,3 +33,16 @@ develop     → intégration
 feature/*   → développement
 hotfix/*    → correction urgente
 release/*   → release
+
+/PayflowSaaS
+  ├── /src
+  │    ├── Payflow.Domain (C# - Interfaces)
+  │    ├── Payflow.Application (C# - Use Cases)
+  │    ├── Payflow.Infrastructure (C# - DB & Wrappers)
+  │    └── Payflow.Api (C# - Controllers)
+  ├── /native
+  │    ├── /Payflow_engine (Rust - Calculs)
+  │    └── /pdf_generator (C++ - Documents)
+  └── /web
+       ├── /admin-react (Dashboard)
+       └── /employee-vue (Mobile Portal)
