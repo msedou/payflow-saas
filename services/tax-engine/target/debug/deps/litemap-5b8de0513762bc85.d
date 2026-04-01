@@ -1,0 +1,10 @@
+/Users/macbookpro/workflows/programmation/c#/saas/payflow/services/tax-engine/target/debug/deps/litemap-5b8de0513762bc85.d: /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/lib.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/map.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/mod.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/slice_impl.rs
+
+/Users/macbookpro/workflows/programmation/c#/saas/payflow/services/tax-engine/target/debug/deps/liblitemap-5b8de0513762bc85.rlib: /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/lib.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/map.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/mod.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/slice_impl.rs
+
+/Users/macbookpro/workflows/programmation/c#/saas/payflow/services/tax-engine/target/debug/deps/liblitemap-5b8de0513762bc85.rmeta: /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/lib.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/map.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/mod.rs /Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/slice_impl.rs
+
+/Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/map.rs:
+/Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/mod.rs:
+/Users/macbookpro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.1/src/store/slice_impl.rs:
